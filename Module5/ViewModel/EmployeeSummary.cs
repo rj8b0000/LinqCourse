@@ -1,4 +1,4 @@
-namespace Module4.ViewModel;
+namespace Module5.ViewModel;
 
 public class EmployeeSummary
 {

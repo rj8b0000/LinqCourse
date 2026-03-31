@@ -1,4 +1,4 @@
-namespace Module3;
+namespace Module4;
 
 public class Employee
 {
@@ -7,4 +7,6 @@ public class Employee
     public string Department { get; set; }
     public decimal Salary { get; set; }
     public int Age { get; set; }
+    
+    public int JoiningYear  { get; set; }
 }
