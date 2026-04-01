@@ -1,0 +1,17 @@
+<employees>
+    <employee id="1">
+        <name>Alice</name>
+        <department>Engineering</department>
+        <salary>75000</salary>
+    </employee>
+    <employee id="2">
+        <name>Bob</name>
+        <department>Marketing</department>
+        <salary>55000</salary>
+    </employee>
+    <employee id="3">
+        <name>Charlie</name>
+        <department>Engineering</department>
+        <salary>82000</salary>
+    </employee>
+</employees>
